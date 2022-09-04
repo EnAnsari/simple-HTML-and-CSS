@@ -1,1 +1,1 @@
-<img href="./result.png" alt="result">
+![result](./result.png)
