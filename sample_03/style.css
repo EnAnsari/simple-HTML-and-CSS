@@ -8,9 +8,17 @@ h1.test {
 }
 
 h2#test {
-    color: purple;
+  color: purple;
 }
 
-.method{
-    color: darkblue;
+.method {
+  color: darkblue;
+}
+
+img {
+  width: 300px;
+}
+
+a {
+  text-decoration: none;
 }
