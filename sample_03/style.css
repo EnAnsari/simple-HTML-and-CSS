@@ -2,3 +2,15 @@ h1,
 h2 {
   color: red;
 }
+
+h1.test {
+  color: blue;
+}
+
+h2#test {
+    color: purple;
+}
+
+.method{
+    color: darkblue;
+}
