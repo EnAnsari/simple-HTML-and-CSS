@@ -1,0 +1,9 @@
+span.brown {
+  color: brown;
+  display: inline-block;
+  width: 60px;
+}
+
+span.blue {
+  color: blue;
+}
