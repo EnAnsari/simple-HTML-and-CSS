@@ -1,3 +1,7 @@
+* {
+  background-color: aqua;
+}
+
 span.brown {
   color: brown;
   display: inline-block;
@@ -6,4 +10,12 @@ span.brown {
 
 span.blue {
   color: blue;
+}
+
+a#link ~ p {
+  background-color: #ff0000;
+}
+
+div p {
+  background-color: yellow;
 }
