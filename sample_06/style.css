@@ -1,0 +1,29 @@
+table,
+tr,
+td {
+  border: black 1px solid;
+    /* border-bottom: red 2px solid; */
+  border-collapse: collapse;
+}
+
+h1 {
+  color: red;
+}
+
+/* table {
+  direction: rtl;
+} */
+
+tr:nth-child(odd){
+    background-color: rgba(22, 5, 135, 0.458);
+}
+
+tr:hover{
+    background-color: greenyellow;
+    font-size: 20px;
+    /* font-size: 200%; */
+}
+
+tr:first-child{
+    background-color: bisque;
+}
