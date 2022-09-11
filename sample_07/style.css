@@ -2,6 +2,14 @@ div {
     background-color: lightgray;
     width: 300px;
     border: 25px solid darkviolet;
-    padding: 20px;
+    /* padding: 20px; */
+    /* padding-top: 20px; */
+    /* padding: 10px 20px 10px 20px; */
+    padding: 10px 20px;
     margin: 25px;
+}
+
+div.bottom {
+    background-color: lightblue;
+    margin-top: 50px;
 }
